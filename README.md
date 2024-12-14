@@ -16,7 +16,6 @@ A brief description of your website goes here. For example:
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributors](#contributors)
-- [License](#license)
 
 ---
 
